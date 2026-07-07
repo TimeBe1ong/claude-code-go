@@ -1,0 +1,3 @@
+# 本项目仅依赖 Python 3.8+ 标准库，无需额外安装包
+# 打包需要 PyInstaller:
+# pip install pyinstaller
